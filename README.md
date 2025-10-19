@@ -4,7 +4,7 @@ A minimalist Flutter app that delivers real-time news and weather updates based 
 
 # 🖼️ App Previews
 
-![LIGHT](assets/lightonee.jpg)
+![LIGHT](assets/previmg/lightonee.jpg)
 ![Weather Screen](assets/weather.png)
 ![News Screen](assets/news.png)
 <p float="left">
