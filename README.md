@@ -1,16 +1,26 @@
-# berita
+# 📰 Berita App
 
-A new Flutter project.
+A minimalist Flutter app that delivers real-time news and weather updates based on your location. Built with clean architecture and powered by **GetX** for state management.
 
-## Getting Started
+![App Screenshot](https://your-image-url.com/app-preview.png)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 **Weather Geolocation API** – Automatically detects user location and displays current weather.
+- 📰 **News API Integration** – Fetches latest headlines from trusted sources.
+- ⚙️ **State Management with GetX** – Efficient and reactive UI updates.
+- 📱 **Responsive UI** – Optimized for both Android and iOS devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Download
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click the image below to download the latest release:
+
+[![Download App](https://your-image-url.com/download-button.png)](https://github.com/yourusername/berita/releases/latest)
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+flutter pub get
+flutter run
