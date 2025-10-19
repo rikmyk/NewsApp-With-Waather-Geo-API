@@ -2,8 +2,15 @@
 
 A minimalist Flutter app that delivers real-time news and weather updates based on your location. Built with clean architecture and powered by **GetX** for state management.
 
-![App Screenshot](https://your-image-url.com/app-preview.png)
+# 🖼️ App Previews
 
+![LIGHT](assets/home.png)
+![Weather Screen](assets/weather.png)
+![News Screen](assets/news.png)
+<p float="left">
+  <img src="assets/lightonee.jpg" width="45%" />
+  <img src="assets/lighttwoo.jpg" width="45%" />
+</p>
 ## ✨ Features
 
 - 🌍 **Weather Geolocation API** – Automatically detects user location and displays current weather.
