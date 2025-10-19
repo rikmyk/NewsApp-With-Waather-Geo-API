@@ -5,8 +5,7 @@ A Flutter app that delivers real-time news and weather updates based on your loc
 
 ![ABOUT](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdykpd__ybPTkEZN-kDLreErOEvSS4IHylq7cHRQCj6r7oIsvUpxoYqjPYHqNmjYuixAOh9ACZnYG7zsxNPqYxkM8vhSh7N2GdPSVPXGHOpGTUULf_TmGGPXIJSJOHagWfx9254RhOmC6DNwlpDrUCkvGnP08f8OhJk0QbfUoa43JobK2pB79kdHtVGKa2/s1748/NEWS%20APP%20(3).png)
 
-<a href="https://github.com/ikmyk/NewsApp-With-Waather-Geo-API-main/releases/download/v1.0.0/app-release.apk">
-  ![Download App](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNvJ2yFk0mJiKs_HEkYsPsWy1d-qke64--seKUVMFuysPOnULI23WWX4B9ZrAoie_ULxL6yskOMjU8-ibJ-phLfkcGriQv4wTXMdS9DKlu5KDlOcde_VzIx6b0kRqQ4VjOMmUlg872rHLVtwvD_ttDTmjTrfWFHdAwAcX5Fa9rF_UwcsV-A9XnysJ5aANH/s2234/lighttwoo.jpg)
+<a href="https://github.com/ikmyk/NewsApp-With-Waather-Geo-API-main/releases/download/v1.0.0/app-release.apk"> ![Download App](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1G5rPT1QPjOJyqkzKhvBJXxer2ctCy8me_V_7lvEKzBiGfpkXzLNu37O3djScFh8HPTcPjnwfDB3_YMHDfbtJl1d8rbnNutJ1YJXJh0KtP_V24e7J-cbcRS_l8DWY_HYLVjPg08oz-eJss_iyoScBUrA_iZWyzcLa-kvFdglujz06LqniJtW_O6xVmoBh/s399/downloadimg.png)
 </a>
 
 
